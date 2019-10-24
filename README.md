@@ -1,0 +1,2 @@
+# AzurLaneVotePoller
+碧蓝航线2019人气投票定时拉取网页与游戏内投票结果cli界面
